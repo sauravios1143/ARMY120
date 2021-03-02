@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865010087488",
+    "firebase_url": "https://army120.firebaseio.com",
+    "project_id": "army120",
+    "storage_bucket": "army120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865010087488:android:54e54c7d6058b776fd91a5",
+        "android_client_info": {
+          "package_name": "com.army120.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865010087488-qabtmf9hvkd5gbhvfveht1ctn7d65qnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFT2Je-wQoT0M_bLn4TpRl_OJd9Ztdh44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865010087488-qabtmf9hvkd5gbhvfveht1ctn7d65qnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865010087488-6mmo100l82pdhi9cievvrfhhs18ne6go.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.120army.app",
+                "app_store_id": "1464419089"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

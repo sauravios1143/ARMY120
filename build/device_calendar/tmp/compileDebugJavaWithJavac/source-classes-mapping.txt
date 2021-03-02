@@ -1,0 +1,2 @@
+com/builttoroam/devicecalendar/BuildConfig.java
+ com.builttoroam.devicecalendar.BuildConfig

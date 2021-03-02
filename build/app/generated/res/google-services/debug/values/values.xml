@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865010087488-qabtmf9hvkd5gbhvfveht1ctn7d65qnc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://army120.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865010087488</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFT2Je-wQoT0M_bLn4TpRl_OJd9Ztdh44</string>
+    <string name="google_app_id" translatable="false">1:865010087488:android:54e54c7d6058b776fd91a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFT2Je-wQoT0M_bLn4TpRl_OJd9Ztdh44</string>
+    <string name="google_storage_bucket" translatable="false">army120.appspot.com</string>
+    <string name="project_id" translatable="false">army120</string>
+</resources>
